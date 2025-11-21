@@ -52,8 +52,9 @@
 
 下圖展示完整的首件檢查表作業流程，從產線人員登入到表單結案的所有步驟：
 
-<!-- ![MES 首件檢查表作業流程](./activeUML.puml) -->
-![MES 首件檢查表作業流程](./activeUML.puml)
+![MES 首件檢查表作業流程](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Polo-Lin-TW/bd_docs/main/first_article_inspection_checklist/activeUML.puml)
+
+> 💡 **提示**: 如果上方圖片無法顯示，請點擊 [這裡開啟 PlantUML 原始檔](./activeUML.puml)
 
 **流程說明**:
 - **產線人員**: 登入系統、選擇製品類型、輸入工單號碼、填寫檢查表
